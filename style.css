@@ -91,8 +91,7 @@
 .venue .date{
     color:#fff;
     background-color: #f15;
-    padding: 5px;
-    border-radius: 40px 0 40px 0;
+    
     transition-duration: .5s;
 }
 .venue .date:hover{
